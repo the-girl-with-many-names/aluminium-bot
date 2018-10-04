@@ -1,2 +1,4 @@
-# bigbot
-A multipurpose Discord bot made using Discord.js
+# aluminium
+Help me please.
+
+aluminium botinfo
